@@ -9,6 +9,9 @@
     <PackageTags>monogame;.net core;core;.net standard;standard;windowsdx</PackageTags>
     <PackageId>MonoGame.Framework.WindowsDX</PackageId>
     <AppendTargetFrameworkToOutputPath>False</AppendTargetFrameworkToOutputPath>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>MonoGame</Title>
+    <Version>3.8.1.305</Version>
   </PropertyGroup>
 
   <ItemGroup>
